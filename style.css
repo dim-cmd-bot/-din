@@ -200,7 +200,7 @@ nav ul li a:hover {
 /*------------------Services Section------------------*/
 #services {
     padding: 60px 0; /* Reduced padding from 1000px */
-    background: url();
+    background: url(modern-website-design-examples.jpg);
 }
 .services-list {
     display: grid;
